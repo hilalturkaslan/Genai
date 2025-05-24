@@ -1,1 +1,1 @@
-# Genai
+generative ai
