@@ -1,1 +1,1 @@
-generative ai
+generative ai case study
