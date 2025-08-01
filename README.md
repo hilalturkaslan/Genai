@@ -1,1 +1,1 @@
-generative ai is a case study
+generative ai is a ai case study
