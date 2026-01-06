@@ -1,1 +1,1 @@
-generative ai is a for do make then artificial intelligence case study
+generative ai is a for done make artificial intelligence case study
