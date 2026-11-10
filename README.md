@@ -1,5 +1,5 @@
 Generative ai is a for done make incloude artificial intelligence case study.
-This subject prompt engineering 
+This subject prompt engineering. 
 I will examine the use of prompt engineering.
 LLM for use prompt engineering.
 
