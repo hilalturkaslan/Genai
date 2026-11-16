@@ -3,3 +3,4 @@ This subject prompt engineering.
 I will examine the use of prompt engineering.
 LLM and NLP for use prompt engineering.
 To write prompts one must master the fundamental components of a prompt.
+important point known good prompt tecnic
